@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T09:51:55+01:00",
+  "campaignActive": true,
+  "config": {
+    "roundSeconds": 10,
+    "maxPoints": 1000,
+    "minPoints": 100
+  },
+  "options": [
+    "Steam",
+    "iTunes",
+    "Amazon",
+    "Google Play"
+  ],
+  "rounds": [
+    {
+      "index": 1,
+      "answer": "Amazon",
+      "image": "https://cdn.jsdelivr.net/gh/tradecardng/cardreveal@main/public/daily/2026-09-01/round1.png"
+    },
+    {
+      "index": 2,
+      "answer": "Steam",
+      "image": "https://cdn.jsdelivr.net/gh/tradecardng/cardreveal@main/public/daily/2026-09-01/round2.png"
+    },
+    {
+      "index": 3,
+      "answer": "iTunes",
+      "image": "https://cdn.jsdelivr.net/gh/tradecardng/cardreveal@main/public/daily/2026-09-01/round3.png"
+    },
+    {
+      "index": 4,
+      "answer": "Google Play",
+      "image": "https://cdn.jsdelivr.net/gh/tradecardng/cardreveal@main/public/daily/2026-09-01/round4.png"
+    }
+  ]
+}
